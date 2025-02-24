@@ -268,3 +268,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [npm]: https://www.npmjs.com/package/infoooze
 [version]: https://img.shields.io/npm/v/infoooze?style=for-the-badge
 [quality]: https://img.shields.io/npms-io/quality-score/infoooze?style=for-the-badge
+/start
